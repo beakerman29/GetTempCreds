@@ -4,7 +4,7 @@ setuptools.setup(
     name='GetTempCreds',
     version='0.0.1',
     packages=setuptools.find_packages(),
-    url='',
+    url='https://github.com/beakerman29/GetTempCreds',
     license='MIT',
     author='mramsey',
     author_email='matthew.ramsey@live.com',
