@@ -1,0 +1,10 @@
+README.md
+setup.py
+GoOktaBoto/__init__.py
+GoOktaBoto/getcredentials.py
+GoOktaBoto/keyrings.py
+GoOktaBoto.egg-info/PKG-INFO
+GoOktaBoto.egg-info/SOURCES.txt
+GoOktaBoto.egg-info/dependency_links.txt
+GoOktaBoto.egg-info/requires.txt
+GoOktaBoto.egg-info/top_level.txt

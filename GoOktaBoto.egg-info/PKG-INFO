@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: GoOktaBoto
+Version: 0.0.7
+Summary: a package to make using the GO okta integration and python testing with boto easier
+Home-page: https://github.com/beakerman29/GetTempCreds
+Author: Matthew Ramsey
+Author-email: matthew.ramsey@live.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: ==3.7.*
